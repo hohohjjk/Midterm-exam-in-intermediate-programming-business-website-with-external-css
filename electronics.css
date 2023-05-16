@@ -1,0 +1,108 @@
+body
+{
+background-color: coral;
+}
+
+color:red;
+font-size:15px;
+p 
+{
+color:red;
+font-family:courier;
+}
+p.sample1
+{
+     font-size:25px;
+     color:red;
+     text-align:center;    
+     border:5px solid white;
+}
+p.sample2
+{
+     font-size:25px;
+     color:red;
+     text-align:center;   
+     border:5px dashed white;
+}
+p.sample3
+{
+     font-size:25px;
+     color:red;
+     text-align:center;   
+     border:5px dotted white;
+}
+p.sample4	
+{
+     font-size:25px;
+     color:red;
+     text-align:center;   
+     border:5px double white;
+
+
+
+}
+ul
+{list-style-type:none;}
+li
+{display:inline;
+width:100px;}
+li a:hover
+{color:blue;
+font-size:18pt;
+font-weight:bold;
+padding:3pt;
+background-color:black;}
+ul li a.active
+{cursor:no-drop;}
+
+p
+{color:white;}
+a.active
+{text-decoration:none;
+ color:red;
+font-size:15pt;
+padding:3pt;
+border-radius:3pt;}
+a
+{text-decoration:none;
+  color:red;
+font-size:15pt;
+padding:3pt;
+border-radius:3pt}
+a.active:hover
+
+
+.sample1 .dropdown
+{position:relative;
+display:inline-block;}
+
+.sample1 .dropdown-content
+{display:none;
+position:absolute;
+background-color:white;
+min-width:100px;
+z-index:1;
+}
+
+.sample1 .dropdown:hover .dropdown-content
+{
+display:block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

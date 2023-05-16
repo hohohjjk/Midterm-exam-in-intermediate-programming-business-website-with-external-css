@@ -1,0 +1,32 @@
+body
+{
+background-color: coral;
+color:red;
+font-size:15px;
+}
+p 
+{
+color:red;
+font-family:courier;
+}
+a
+{
+font-family:courier;
+color:red;
+text-decoration:none;
+}
+ul
+{list-style-type:none;}
+li
+{display:inline;
+width:100px;}
+li a:hover
+{color:blue;
+font-size:18pt;
+font-weight:bold;
+padding:3pt;
+background-color:black;}
+ul li a.active
+{cursor:no-drop;}
+
+

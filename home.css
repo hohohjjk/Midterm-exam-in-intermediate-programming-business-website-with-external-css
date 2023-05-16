@@ -1,0 +1,31 @@
+
+body
+{
+background-color: coral;
+color:red;
+font-size:15px;
+}
+p 
+{
+color:red;
+font-family:courier;
+}
+p.sample1
+{
+     font-size:25px;
+     margin:20px;
+     color:red;
+     text-align:center;    
+     border:5px solid white;
+}
+p.sample2
+{
+     font-size:25px;
+     margin:20px;
+     color:red;
+     text-align:center;    
+     border:5px solid white;
+}
+
+
+
